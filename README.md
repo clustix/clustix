@@ -18,9 +18,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317devsmwyb6sl54srq7e2nkg7n4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b11de2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## 🚀 My Tech Stack
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictimZxc&layout=compact&theme=vision-friendly-dark)](https://github.com/VictimZxc)
-
 ### 🔧 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,&theme=dark)](https://skillicons.dev)
 
