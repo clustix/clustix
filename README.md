@@ -14,8 +14,6 @@
 [![Py Charm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victim_offical)
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=VictimZxc&show_icons=true&theme=dark)
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317devsmwyb6sl54srq7e2nkg7n4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b11de2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🔧 Languages & Tools
