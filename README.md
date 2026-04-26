@@ -9,15 +9,24 @@
 🚀 **Building stuff for fun & profit**  
 🎨 **Digital artist when not debugging**  
 
-[![OS](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com)
-<div id="header" align="center">
-  <b>Contacts:</b>
-  
-</div>
+<div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victim_offical)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clustix.dev@gmail.com)
+[![Arch](https://img.shields.io/badge/Arch_Linux-121212?style=for-the-badge&logo=arch-linux&logoColor=7B68EE)](https://archlinux.org/)
+[![JetBrains](https://img.shields.io/badge/JetBrains-121212?style=for-the-badge&logo=jetbrains&logoColor=7B68EE)](https://www.jetbrains.com)
+[![Vim](https://img.shields.io/badge/Vim-121212?style=for-the-badge&logo=vim&logoColor=7B68EE)](https://www.vim.org/)
+[![Fastfetch](https://img.shields.io/badge/Fastfetch-121212?style=for-the-badge&logo=linux&logoColor=7B68EE)](https://github.com/fastfetch-cli/fastfetch)
+[![Zen](https://img.shields.io/badge/Zen_Browser-121212?style=for-the-badge&logo=firefox&logoColor=7B68EE)](https://zen-browser.app/)
+
+<br>
+
+<b>Contacts:</b>
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=7B68EE)](https://t.me/victim_offical)
+[![Gmail](https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=7B68EE)](mailto:clustix.dev@gmail.com)
+
+</div>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317devsmwyb6sl54srq7e2nkg7n4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b11de2&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
