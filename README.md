@@ -28,8 +28,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/ВАШ_НИКНЕЙМ/ВАШ_РЕПОЗИТОРИЙ/main/assets/lastfm_widget.svg" width="400">
-
 ### 🔧 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,cs&theme=dark)](https://skillicons.dev)
 
