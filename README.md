@@ -28,7 +28,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/clustix/VKMusic-readme/master/music-card.svg">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ycszmmbzxiga6fox5gbn3a7d2u&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=9141ac&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🔧 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,cs&theme=dark)](https://skillicons.dev)
