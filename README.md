@@ -28,7 +28,7 @@
 
 </div>
 
-![Now Playing](https://raw.githubusercontent.com/clustix/VKMusic-readme/master/music-card.svg?v=2)
+![Now Playing](https://raw.githubusercontent.com/clustix/VKMusic-readme/master/music-card.svg)
 
 ### 🔧 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,html,cs&theme=dark)](https://skillicons.dev)
