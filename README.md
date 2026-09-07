@@ -12,6 +12,7 @@
 <div align="center">
 
 [![Arch](https://img.shields.io/badge/Arch_Linux-121212?style=for-the-badge&logo=arch-linux&logoColor=7B68EE)](https://archlinux.org/)
+[![macOS](https://img.shields.io/badge/macOS-121212?style=for-the-badge&logo=apple&logoColor=7B68EE)](https://www.apple.com/macos)
 [![JetBrains](https://img.shields.io/badge/JetBrains-121212?style=for-the-badge&logo=jetbrains&logoColor=7B68EE)](https://www.jetbrains.com)
 [![Vim](https://img.shields.io/badge/Vim-121212?style=for-the-badge&logo=vim&logoColor=7B68EE)](https://www.vim.org/)
 [![Fastfetch](https://img.shields.io/badge/Fastfetch-121212?style=for-the-badge&logo=linux&logoColor=7B68EE)](https://github.com/fastfetch-cli/fastfetch)
