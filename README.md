@@ -1,36 +1,25 @@
-<div id="header" align="center">
-  <img src="https://images.steamusercontent.com/ugc/827945263930670895/B7BC3E76330B12E1BF8E10C3F3F86336B88154EB/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false">  
-<div id="header" align="center">
-  <b>Hey there, I'm Ilia 👋</b>
-</div>
-
-👨‍💻 **Code poet** | **Bug creator**  
-☕ **Caffeine-powered developer**  
-🚀 **Building stuff for fun & profit**  
-🎨 **Digital artist when not debugging**  
-
 <div align="center">
 
-[![Arch](https://img.shields.io/badge/Arch_Linux-121212?style=for-the-badge&logo=arch-linux&logoColor=7B68EE)](https://archlinux.org/)
-[![macOS](https://img.shields.io/badge/macOS-121212?style=for-the-badge&logo=apple&logoColor=7B68EE)](https://www.apple.com/macos)
-[![JetBrains](https://img.shields.io/badge/JetBrains-121212?style=for-the-badge&logo=jetbrains&logoColor=7B68EE)](https://www.jetbrains.com)
-[![Vim](https://img.shields.io/badge/Vim-121212?style=for-the-badge&logo=vim&logoColor=7B68EE)](https://www.vim.org/)
-[![Fastfetch](https://img.shields.io/badge/Fastfetch-121212?style=for-the-badge&logo=linux&logoColor=7B68EE)](https://github.com/fastfetch-cli/fastfetch)
-[![Zen](https://img.shields.io/badge/Zen_Browser-121212?style=for-the-badge&logo=firefox&logoColor=7B68EE)](https://zen-browser.app/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m clustix"></picture>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="25.838%" alt=""></picture><a href="https://t.me/victim_official"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://mailto:clustix.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="14.866%" alt="gmail"></picture></a><a href="https://steamcommunity.com/id/victim_zxc/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="15.335%" alt="steam"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="25.838%" alt=""></picture>
 
-<b>Contacts:</b>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-[![Telegram](https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=7B68EE)](https://t.me/victim_offical)
-[![Gmail](https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=7B68EE)](mailto:clustix.dev@gmail.com)
+<a href="https://github.com/clustix/Anixart-X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-anixart-x-dark.svg"><img src="assets/project-anixart-x-light.svg" width="49%" alt="Anixart-X"></picture></a>&nbsp;<a href="https://github.com/clustix/clustix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-clustix-dark.svg"><img src="assets/project-clustix-light.svg" width="49%" alt="clustix"></picture></a>
+
+<a href="https://github.com/clustix/nox-browser"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nox-browser-dark.svg"><img src="assets/project-nox-browser-light.svg" width="49%" alt="nox-browser"></picture></a>&nbsp;<a href="https://github.com/clustix/Melomash"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-melomash-dark.svg"><img src="assets/project-melomash-light.svg" width="49%" alt="Melomash"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="25.821%" alt=""></picture><a href="https://clustix.ru"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="22.417%" alt="My website"></picture></a><a href="https://github.com/clustix?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="25.939%" alt="All repositories"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="25.821%" alt=""></picture>
+
+<a href="https://metawka.github.io/expressive-profile/?from=clustix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
-
-![Now Playing](https://raw.githubusercontent.com/clustix/VKMusic-readme/master/music-card.svg)
-
-### 🔧 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,cs,ts&theme=dark)](https://skillicons.dev)
-
