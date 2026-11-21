@@ -10,7 +10,7 @@
 
 <a href="https://github.com/clustix/Anixart-X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-anixart-x-dark.svg"><img src="assets/project-anixart-x-light.svg" width="49%" alt="Anixart-X"></picture></a>&nbsp;<a href="https://github.com/clustix/clustix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-clustix-dark.svg"><img src="assets/project-clustix-light.svg" width="49%" alt="clustix"></picture></a>
 
-<a href="https://github.com/clustix/nox-browser"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nox-browser-dark.svg"><img src="assets/project-nox-browser-light.svg" width="49%" alt="nox-browser"></picture></a>&nbsp;<a href="https://github.com/clustix/Melomash"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-melomash-dark.svg"><img src="assets/project-melomash-light.svg" width="49%" alt="Melomash"></picture></a>
+<a href="https://github.com/clustix/Melomash"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-melomash-dark.svg"><img src="assets/project-melomash-light.svg" width="49%" alt="Melomash"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
