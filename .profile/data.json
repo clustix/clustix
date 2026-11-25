@@ -1,8 +1,8 @@
 {
- "key": "36b5c62c",
+ "key": "30c27886",
  "stars": 11,
- "contributions": 175,
- "repos": 6,
+ "contributions": 177,
+ "repos": 7,
  "followers": 8,
  "languages": [
   [
@@ -12,6 +12,10 @@
   [
    "JavaScript",
    509722
+  ],
+  [
+   "Rust",
+   41437
   ],
   [
    "TypeScript",
@@ -119,16 +123,20 @@
    {
     "c": 0,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 6
  },
  "pins": [],
@@ -149,6 +157,15 @@
    "fork": false,
    "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "scrust",
+   "url": "https://github.com/clustix/scrust",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
    "topics": []
   },
   {
